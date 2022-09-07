@@ -31,7 +31,7 @@ public class WordManager {
             if(menu == 4){
                 wordCRUD.addWord();
             }else if(menu == 1){
-                //list
+                wordCRUD.listAll();
             }
         }
 
