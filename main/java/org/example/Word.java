@@ -5,6 +5,7 @@ public class Word {
     private int level;
     private String meaning;
     private String word;
+    Word(){}
     Word(int id, int level, String word, String meaning){
         this.id = id;
         this.level = level;
@@ -17,6 +18,8 @@ public class Word {
     public void setName(String name) {
         this.word = name;
     }
+    public String getWord() { return word; }
+    public void setMeaning(String meaning){ this.meaning = meaning; }
     @Override
     public String toString(){
         String slevel = "";
@@ -27,4 +30,5 @@ public class Word {
                 + String.format("%15s", word) + "  " +meaning;
         return str;
     }
+
 }
