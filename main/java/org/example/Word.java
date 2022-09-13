@@ -20,6 +20,8 @@ public class Word {
     }
     public String getWord() { return word; }
     public void setMeaning(String meaning){ this.meaning = meaning; }
+    public int getLevel() {return level;}
+    public void setLevel() {this.level = level;}
     @Override
     public String toString(){
         String slevel = "";
@@ -31,7 +33,8 @@ public class Word {
         return str;
     }
     public String toFileString(){
-        return this.level + "|"+ this.word + "|" + this.meaning;
+        return this.level+"|"+this.word +"|"+this.meaning;
     }
+
 
 }
