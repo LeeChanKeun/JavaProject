@@ -5,7 +5,7 @@ public class Word {
     private int level;
     private String meaning;
     private String word;
-
+    Word(){}
     Word(int id, int level, String word, String meaning){
         this.id = id;
         this.level = level;
