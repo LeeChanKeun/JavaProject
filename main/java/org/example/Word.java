@@ -1,7 +1,7 @@
 package org.example;
 
 public class Word {
-    private int id
+    private int id;
     private int level;
     private String meaning;
     private String word;
