@@ -25,3 +25,6 @@ txt파일이 아니라 프로그램 내에서도 바뀜을 볼 수 있다.
 
 프로그램을 다시시작할때 삭제된 항목을 제외한 12개의 항목을 불러옴으로 시작함을 볼 수 있다.
 <img width="682" alt="재시작, 1번" src="https://user-images.githubusercontent.com/112410714/190138346-cbaaf934-bece-4877-adf6-afdd740506c7.png">
+
+아래는 파일의 위치와 내용이다.
+<img width="902" alt="파일 주소와 내용" src="https://user-images.githubusercontent.com/112410714/190139343-1d6c04ab-dc07-498d-92e0-0a6bec5fb75b.png">
