@@ -28,3 +28,9 @@ txt파일이 아니라 프로그램 내에서도 바뀜을 볼 수 있다.
 
 아래는 파일의 위치와 내용이다.
 <img width="902" alt="파일 주소와 내용" src="https://user-images.githubusercontent.com/112410714/190139343-1d6c04ab-dc07-498d-92e0-0a6bec5fb75b.png">
+
+
+
+뭘까
+<img width = "1000" alt = "what" src ="https://user-images.githubusercontent.com/112410714/195879891-33287942-1d82-4be4-8cad-04a0ee393f7c.jpg">
+
